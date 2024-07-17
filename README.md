@@ -7,3 +7,7 @@ Unity版本：Unity 2022.3.17f1c1。
 - Dynamic Batching（动态合批）。
 ***
 优先级：SRP Bacher > Static Baching > GPU Instancing > Dynamic Baching。
+***
+原理：
+***
+条件：
